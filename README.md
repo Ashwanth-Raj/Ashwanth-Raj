@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20There!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%F0%9F%92%A8%20Cybersecurity%20Ninja&descAlignY=55" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F260&center=true&vCenter=true&width=500&lines=Code+with+Purpose;Secure+by+Design;Always+Leveling+Up" alt="Typing SVG" />
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20There!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20✨%20Cybersecurity%20Ninja&descAlignY=55" width="100%" /> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=00F260&center=true&vCenter=true&width=400&lines=Code+with+Purpose;Secure+by+Design;Always+Leveling+Up" alt="Typing SVG" /> </div>
 
 ## 🚀 About Me
 
