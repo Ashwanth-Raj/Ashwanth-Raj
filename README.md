@@ -8,7 +8,6 @@ I'm Ashwanth Raj A, a full-stack developer who loves building web applications. 
 
 - 🌱 Currently learning more about web development and blockchain
 - 📫 Reach me at: **[ashwanthraj30@gmail.com](mailto:ashwanthraj30@gmail.com)**
-- 📄 My Resume: [View Here](https://drive.google.com/file/d/1sod3skcP1Atb7dbiG6VqG6KeYpEaYiLb/view?usp=drive_link)
 
 ---
 
@@ -25,7 +24,7 @@ I'm Ashwanth Raj A, a full-stack developer who loves building web applications. 
 
 ### 🛠️ Tech Stack & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,javascript,nodejs,expressjs,python,java,cpp,mongodb,mysql,tailwind,typescript,html,css" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,nodejs,expressjs,angular,react,mongodb,mysql,tailwind,bootstrap" alt="Tech Stack"/>
 </p>
 
 ---
