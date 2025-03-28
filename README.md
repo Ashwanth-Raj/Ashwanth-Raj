@@ -2,9 +2,9 @@
 
 🚀 Passionate Full-Stack Developer | India 
 
-I'm Ashwanth Raj A, a full-stack developer who loves building web applications. I have experience working with the MERN stack, Java, Python, and C++.
+I'm Ashwanth Raj A, a full-stack developer who loves building web applications. I have experience working with the MERN stack, C, C++, Java and Python.
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashwanth-Raj&label=Profile%20views&color=0e75b6&style=flat" alt="sk-sunilsh" /> </p>
 
 - 🌱 Currently learning more about web development and blockchain
 - 📫 Reach me at: **[ashwanthraj30@gmail.com](mailto:ashwanthraj30@gmail.com)**
